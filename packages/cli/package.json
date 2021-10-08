@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-torfahs/local-client"
+    "@jsnote-torfahs/local-client": "0.1.0"
   },
   "devDependencies": {
     "@types/node": "^16.4.7",

@@ -1,0 +1,11 @@
+0 silly argv {
+0 silly argv   _: [ 'publish' ],
+0 silly argv   composed: 'publish',
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'C:\\Users\\torfa\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath C:\projects\jbook
+3 error JSONError: Unexpected token } in JSON at position 504 while parsing near '...ahs/local-client"  },  "devDependencie...' in packages\cli\package.json
+3 error     at module.exports (C:\Users\torfa\AppData\Roaming\npm\node_modules\lerna\node_modules\parse-json\index.js:26:19)
+3 error     at parse (C:\Users\torfa\AppData\Roaming\npm\node_modules\lerna\node_modules\load-json-file\index.js:15:9)
