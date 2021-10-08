@@ -1,6 +1,6 @@
 {
   "name": "jsnote-torfahs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -20,7 +20,7 @@
     "@jsnote-torfahs/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@jsnote-torfahs/local-api": "^1.0.0",
+    "@jsnote-torfahs/local-api": "^1.0.1",
     "@types/node": "^16.4.7",
     "commander": "^8.0.0",
     "esbuild": "0.8.26",
